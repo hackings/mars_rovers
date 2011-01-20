@@ -1,0 +1,2 @@
+class DuplicateRoverError < Exception
+end

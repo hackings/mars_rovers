@@ -1,0 +1,2 @@
+class OutOfPlateauError < Exception
+end 
